@@ -41,5 +41,3 @@ Dare to step into the unknown? Be a part of the VOID.
 	•	Whitepaper: Learn more in the Official Whitepaper.
 
 Step into the VOID. From nothing, everything.
-
-این متن را می‌توانید مستقیماً در فایل README کپی کنید. اگر نیاز به تغییرات یا شخصی‌سازی دارید، اطلاع بدهید!
